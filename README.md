@@ -7,10 +7,7 @@
 📚 Sou apaixonado por programação e estou constantemente buscando conhecimento e aprimoramento nas áreas em que atuo.
 
 💼 Tenho experiência em desenvolvimento web, especialmente em PHP e JavaScript, e estou sempre em busca de desafios emocionantes e oportunidades para expandir minhas habilidades.
-
-💼 Tenho experiência com os frameworks ![Laravel](https://img.shields.io/badge/Laravel-Experienced-red), ![Symfony](https://img.shields.io/badge/Symfony-Experienced-blue), e ![Zend Framework](https://img.shields.io/badge/Zend%20Framework-Experienced-purple).
-
-🌟 Também sou familiarizado com ![jQuery](https://img.shields.io/badge/jQuery-Experienced-blue)
+   Tenho experiência com os frameworks ![Laravel](https://img.shields.io/badge/Laravel-Experienced-red), ![Symfony](https://img.shields.io/badge/Symfony-Experienced-blue), e ![Zend Framework](https://img.shields.io/badge/Zend%20Framework-Experienced-purple). Também sou familiarizado com ![jQuery](https://img.shields.io/badge/jQuery-Experienced-blue)
 
 ✨ Sou um entusiasta da tecnologia e estou sempre empolgado em aprender e experimentar novas ferramentas, frameworks e tecnologias que possam aprimorar meus projetos.
 

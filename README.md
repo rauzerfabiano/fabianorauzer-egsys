@@ -15,6 +15,6 @@
 
 🌱 Estou sempre disposto(a) a compartilhar conhecimentos e aprender com outros profissionais da área. Se você tem interesse em trocar experiências ou colaborar em projetos, sinta-se à vontade para me contatar!
 
-📫 Você pode entrar em contato comigo através do LinkedIn ou pelo e-mail [seu-e-mail-aqui](mailto:seu-email-aqui). Estou ansioso(a) para conectar com pessoas incríveis!
+📫 Você pode entrar em contato comigo através do LinkedIn ou pelo e-mail [fabiano.rauzer@egsys.com.br](mailto:fabiano.rauzer@egsys.com.br). Estou ansioso(a) para conectar com pessoas incríveis!
 
 Vamos crescer juntos e construir um futuro tecnológico brilhante! ✨🚀
